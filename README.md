@@ -14,7 +14,7 @@ Demonstrates how WhatsApp generates and recovers cipher keys from encrypted back
   
 ###### Notes:
   
-  This tool is for demonstration purposes only and for helping the "curious" understand the relationship between the WhatsApp key file located in "/data/data/com.whatsapp/files/key" and the encrypted WhatsApp database backups.  
+  This tool is for demonstration purposes only and for helping the "curious" understand the relationship between the WhatsApp key file located at: "/data/data/com.whatsapp/files/key" and the encrypted WhatsApp database backup files.  
     
   Please do not raise any issues concerning what is used as the account seed. Figuratively speaking; you decide!
   
